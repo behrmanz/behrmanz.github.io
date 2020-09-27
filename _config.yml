@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/behrmanz"
     - label: "Resume"
-      icon: "fab fa-fw fa-file"
+      icon: "fas fa-fw fa-file"
       url: "https://drive.google.com/file/d/1J20128tmsMD3uDwhLPcJ2Oi04NkKi5GH/view?usp=sharing"
 
 footer:
@@ -80,7 +80,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Resume"
-      icon: "fab fa-fw fa-file"
+      icon: "fas fa-fw fa-file"
       url: "https://drive.google.com/file/d/1J20128tmsMD3uDwhLPcJ2Oi04NkKi5GH/view?usp=sharing"
 
 defaults:
