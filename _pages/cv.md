@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 ---
 
-<strong>Education</strong>
+<h2>Education</h2>
 {: .text-center}
 
 University of Michigan - Ross School of Business, Ann Arbor MI
@@ -16,7 +16,7 @@ GPA: 3.80
 
 Will have Completed EECS 281 (Data Structures & Algorithms), TO 301 (Business Analytics & Statistics) and ACC 300 (Financial Accounting) by WN 2021. 
 
-<strong>Experience</strong>
+<h2>Experience</h2>
 {: .text-center}
 
 RXA, Ann Arbor, MI
@@ -43,4 +43,14 @@ Zell Lure Institute, Ann Arbor, MI
 <strong>Intern</strong>
 <ul>
   <li>Coordinate annual Michigan Business Challenges at the Ross School of Business. Analyze judge feedback.</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+  <li>C++ (4/5)</li>
+  <li>Python (3/5)</li>
+  <li>SQL (2/5)</li>
+  <li>Java (4/5)</li>
+  <li>C# (2/5)</li>
+  <li>Domo Certified</li>
 </ul>
