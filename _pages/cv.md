@@ -30,3 +30,17 @@ the VOC platform.</li>
 <li><u>Business Development:</u> Created POCs for organizations including the Department of Veterans Affairs. Led
 pitches with potential clients.</li>
 </ul>
+
+Crowds & Machines Lab, Ann Arbor, MI
+
+<strong>Research Assistant</strong>
+<ul>
+  <li>Contributed to InvisoVR, a virtual-reality application to prototype 3D soundscapes.</li>
+</ul>
+
+Zell Lure Institute, Ann Arbor, MI
+
+<strong>Intern</strong>
+<ul>
+  <li>Coordinate annual Michigan Business Challenges at the Ross School of Business. Analyze judge feedback.</li>
+</ul>
