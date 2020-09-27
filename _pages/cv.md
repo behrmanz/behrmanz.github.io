@@ -3,6 +3,9 @@ permalink: /cv/
 title: "CV"
 ---
 
+<strong>Education</strong>
+{: .text-center}
+
 University of Michigan - Ross School of Business, Ann Arbor MI
 
 September 2019 - Present
