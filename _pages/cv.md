@@ -4,7 +4,7 @@ title: "CV"
 ---
 
 University of Michigan - Ross School of Business, Ann Arbor MI
-{: .text-left}
+
 September 2019 - Present
 
 <strong>Bachelor of Business Administration Candidate 2023, Double Major: Computer Science (LS&A)</strong>
