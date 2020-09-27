@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Zachary Behrman"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/DSC_0240_Original.jpg"
+  bio    : "Student at the University of Michigan studying business & computer science."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
