@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Music <i class="fa-solid fa-music"></i> and Technology <i class="fa-solid fa-code"></i>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Currently based in </p>
+    <p>San Francisco, CA</P>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi, and welcome to my page!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a rising senior at the [University of Michigan](http://umich.edu) pursuing a dual-degree in Computer Science and Business. On campus, I'm the president of [Maize Collective](https://www.instagram.com/maizecollective/?hl=en) which aims to explore and teach inter-disciplinary artforms. I also play/write music and perform on campus.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of school, I'm a two-time [Google intern](https://careers.google.com/students/), with work experience in applied research and internal tool creation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm actively looking for opportunities that combine the arts and ML. Please feel free to reach out to me at behrmanz@umich.edu. 

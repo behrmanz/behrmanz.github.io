@@ -1,0 +1,10 @@
+{%- assign path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
+
+<figure>
+  <iframe
+  src="{{path}}" width="500px" height="300px">
+  </iframe>
+
+  {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
+
+</figure>

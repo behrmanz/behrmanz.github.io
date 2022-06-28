@@ -1,80 +1,45 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Triple Threat
+description: An audiovisual installation for Detroit-Based artist Shigeto.
+img: assets/img/triplethreat/lorenz.gif
 importance: 1
-category: work
+category: highlights
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In November 2021, the University of Michigan hosted a DJ set from [Shigeto](http://shigeto.live), a Detroit-based artist with over [100,000 monthly listeners on Spotify](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8?si=13GyxpFCSlqH5qoNbIYzJA&nd=1). I was given the opportunity to create a visual installation to accompany Shigeto's performance and created a series of works (a portion of which will be shown below).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+All of the works were entirely computer-generated with the use of GLSL and [TouchDesigner](http://derivative.ca).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+An overall motif within this installation was portraying increasing connection between nature and technology via the use of "life-like" movements (heavily drawing upon fractals and their derivations).
+
+Overall, the show had a record attendance of over 350 people throughout the night and garnered attention from people across the Metro-Detroit area. Special thanks to the Michigan community for highlighting my work.
+
+Here's a few pieces that were included in show:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/triplethreat/fractal1.gif" title="Fractal" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Based upon the famous [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set).
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/triplethreat/lorenz.gif" title="Lorenz" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A derivation of the [Lorenz System](https://en.wikipedia.org/wiki/Lorenz_system)
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/triplethreat/memco.gif" title="Memco" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    A homage to the Michigan Electronic Music Collective (MemCo) community.
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
