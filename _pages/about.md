@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Music <i class="fa-solid fa-music"></i> and Technology <i class="fa-solid fa-code"></i>
+subtitle: Music 🎶 and Technology 🤖
 
 profile:
   align: right
