@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pixel Sorting
-description: Making glitch art via paralell processing.
+description: Making glitch art via parallel processing.
 img: assets/img/pixel_sorter/in_process.gif
 importance: 3
 category: all
