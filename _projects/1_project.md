@@ -23,7 +23,7 @@ Here's a few pieces that were included in show:
     </div>
 </div>
 <div class="caption">
-    Based upon the famous [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set).
+    Based upon the famous <a href="https://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot Set</a>
 </div>
 
 <div class="row">
@@ -32,7 +32,7 @@ Here's a few pieces that were included in show:
     </div>
 </div>
 <div class="caption">
-    A derivation of the [Lorenz System](https://en.wikipedia.org/wiki/Lorenz_system)
+    A derivation of the <a href="https://en.wikipedia.org/wiki/Lorenz_system">Lorenz System</a>
 </div>
 
 <div class="row">

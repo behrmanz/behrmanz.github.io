@@ -2,7 +2,7 @@
 layout: page
 title: Generative Art Classes
 description: Teaching UMich how to create interactive visuals.
-img: assets/img/7.jpg
+img: assets/img/art_classes/itamaar.gif
 importance: 3
 category: highlights
 ---
@@ -24,4 +24,4 @@ The project (in tandem with my original work) received $1000 from [ArtsEngine](h
 
 Furthermore, our ultimate workshop was co-sponsored by the [PAT](https://smtd.umich.edu/departments/performing-arts-technology/) department, with faculty member [Kiera Saltz](https://kierasaltz.com/) presenting on advanced modality opportunities within TouchDesigner.
 
-A post-mortem of the project as well as footage from the final session can be found below:
+A post-mortem of the project as well as footage from the final session will be uploaded soon.
