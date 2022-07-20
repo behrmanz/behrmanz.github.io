@@ -4,7 +4,7 @@ title: Vocal Synthesis
 description: Creating realistic vocal tones using analogue synthesis.
 img: assets/img/vocal_synth/vocal_synth_picture.gif
 importance: 2
-category: highlights
+category: all
 ---
 
 In my Physics Of Music class, we spent a considerable amount of time talking through the mechanics of human speech. While the task of synthesizing fully life-like human speech is very difficult (due to the complex modeling required for certain phonetics), the replication of vowels is relatively straight-forward.

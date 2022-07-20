@@ -4,7 +4,7 @@ title: Generative Art Classes
 description: Teaching UMich how to create interactive visuals.
 img: assets/img/art_classes/itamaar.gif
 importance: 3
-category: highlights
+category: all
 ---
 
 An important part of my club, Maize Collective, is teaching new modes of expression to the larger University of Michigan community. Our campus has a diverse set of student interests, but I personally believe art can be found in whatever someone decides to pursue.

@@ -4,7 +4,7 @@ title: Triple Threat
 description: An audiovisual installation for Detroit-Based artist Shigeto.
 img: assets/img/triplethreat/lorenz.gif
 importance: 1
-category: highlights
+category: all
 ---
 
 In November 2021, the University of Michigan hosted a DJ set from [Shigeto](http://shigeto.live), a Detroit-based artist with over [100,000 monthly listeners on Spotify](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8?si=13GyxpFCSlqH5qoNbIYzJA&nd=1). I was given the opportunity to create a visual installation to accompany Shigeto's performance and created a series of works (a portion of which will be shown below).
