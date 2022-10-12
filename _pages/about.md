@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Currently based in </p>
-    <p>San Francisco, CA</P>
+    <p>Ann Arbor, MI</P>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
