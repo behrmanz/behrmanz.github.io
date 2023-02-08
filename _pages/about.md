@@ -21,4 +21,4 @@ I'm a rising senior at the [University of Michigan](http://umich.edu) pursuing a
 
 Outside of school, I'm a two-time [Google intern](https://careers.google.com/students/), with work experience in applied research and internal tool creation.
 
-I'm actively looking for opportunities that combine the arts and ML. Please feel free to reach out to me at behrmanz@umich.edu. 
+Please feel free to reach out to me at behrmanz@umich.edu. 
