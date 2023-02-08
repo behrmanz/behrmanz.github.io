@@ -7,7 +7,9 @@ importance: 3
 category: all
 ---
 
-As I wrap up my final semester, it seems only fitting to capture the energy of what it means to be an EECS student. With my friend [Jonah Ableman](https://www.linkedin.com/in/jonah-ableman/), we set out to make a VR experience that pays homage to our communities (many) quirks.
+As I wrap up my final semester, it seems only fitting to capture the energy of what it means to be an EECS student. With my friend [Jonah Ableman](https://www.linkedin.com/in/jonah-ableman/), we set out to make a VR experience (using [Unreal Engine](https://www.unrealengine.com/en-US)) that pays homage to our communities (many) quirks.
+
+Working through this project taught me many paradigms about game development, such as affordance systems and component-based design.
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
