@@ -2,7 +2,7 @@
 layout: page
 title: EECS Simulator
 description: A virtual-reality parody about EECS at UMich.
-img: assets/img/triplethreat/green_shirt.gif
+img: assets/img/eecs_simulator/green_shirt.gif
 importance: 3
 category: all
 ---
