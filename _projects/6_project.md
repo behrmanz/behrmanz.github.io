@@ -15,7 +15,7 @@ Working through this project gave me a deeper understanding of the Unity ecosyst
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/a2_go/planting.gif" title="Planting some trees!" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/a2_go/planting.gif" title="Planting some trees!" class="img-fluid rounded z-depth-1 mx-auto" %}
     </div>
 </div>
 <div class="caption">
